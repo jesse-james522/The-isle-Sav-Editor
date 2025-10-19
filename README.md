@@ -8,3 +8,5 @@ For example: "Class": "/Game/TheIsle/Core/Characters/Dinosaurs/Troodon/BP_Troodo
 Players need to be logged out and if you change class it needs to be a pickable class in spawn menu. Save editing is volitaile, be careful.
 
 As of 0.20.156
+
+Discord: https://discord.gg/WcZb8mMHHP
